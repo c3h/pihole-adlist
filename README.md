@@ -23,10 +23,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
 https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/master/output/domains/INACTIVE/list
 
-https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt
-
-https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
-
 ## Spyware
 
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
