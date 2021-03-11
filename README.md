@@ -59,3 +59,46 @@ https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.
 
 ### bibliography
 https://medium.com/@obutterbach/unlock-the-full-potential-of-pihole-e795342e0e36
+
+
+## reestruturar com base nas seguintes informações
+
+### fontes
+
+bloqueio de anuncios do youtube
+https://github.com/kboghdady/youTube_ads_4_pi-hole
+
+lista de repositorios
+https://github.com/topics/pihole-blocklists
+
+fonte
+https://firebog.net/
+
+outro repositório com mais algumas listas
+https://github.com/blocklistproject/Lists
+
+dar uma lida
+https://codeberg.org/spootle/blocklist/
+
+### lista atual
+
+Suspicious Lists
+- https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+
+Advertising Lists
+- https://adaway.org/hosts.txt
+- https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+- https://v.firebog.net/hosts/AdguardDNS.txt
+- https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+
+Tracking & Telemetry Lists
+- https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+- https://v.firebog.net/hosts/Easyprivacy.txt
+- https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+
+Malicious Lists
+- https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+- https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+- https://urlhaus.abuse.ch/downloads/hostfile/
+
+
